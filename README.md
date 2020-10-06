@@ -20,4 +20,4 @@ To see it working:
 
 To play with Markdown:
 
-1. install Markdown All in One <https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one> VSCode extension
+1. install [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) VSCode extension
