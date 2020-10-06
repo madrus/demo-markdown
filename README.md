@@ -12,5 +12,12 @@
 
 ## Usage
 
-1. clone <https://github.com/madrus/demo-markdown.git>
-1.
+To see it working:
+
+1. clone the repository: <https://github.com/madrus/demo-markdown.git>
+1. open in VSCode: <https://code.visualstudio.com/download>
+1. run `npm run docs`
+
+To play with Markdown:
+
+1. install Markdown All in One <https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one> VSCode extension
