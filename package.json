@@ -1,0 +1,14 @@
+{
+  "name": "markdown-demo",
+  "version": "0.1.0",
+  "description": "The Discrete Charm of Markdown",
+  "main": "index.html",
+  "repository": "",
+  "author": "Andre Roussakoff",
+  "license": "MIT",
+  "private": false,
+  "homepage": "http://madrus4u.com/demo-markdown/",
+  "scripts": {
+    "docs": "browser-sync . --port 3031 --watch"
+  }
+}
