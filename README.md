@@ -9,3 +9,8 @@
 1. [Markdown cheat sheet](/docs/cheat-sheet.md)
 1. [Dessert: Docsify](docsify.md)
 1. [References](/docs/references.md)
+
+## Usage
+
+1. clone <https://github.com/madrus/demo-markdown.git>
+1.

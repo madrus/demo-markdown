@@ -3,12 +3,11 @@
   "version": "0.1.0",
   "description": "The Discrete Charm of Markdown",
   "main": "index.html",
-  "repository": "",
+  "repository": "https://github.com/madrus/demo-markdown.git",
   "author": "Andre Roussakoff",
   "license": "MIT",
   "private": false,
-  "homepage": "http://madrus4u.com/demo-markdown/",
   "scripts": {
-    "docs": "browser-sync . --port 3031 --watch"
+    "docs": "npx browser-sync . --port 3000 --watch"
   }
 }
